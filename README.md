@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hatim Mansor
-- 👀 my first step in programming started when long a go copying cods from Commodore magazines into my powerful computer (at that time) commodore 64 using basic language, since 1995 till now I have used a wide range of programming tools to analyse data, control devices and present data
-- 🌱 I’m currently updating my programming skills with Monash university **DATA VISUALIZATION** bootcamp
+- 👀 my first step in programming started while a go, by copying cods from Commodore magazines into my powerful computer (at that time) commodore 64 using basic language, since 1995 till now I have used a wide range of programming tools to analyse data, control devices and present data
+
 - 💞️ I’m looking to collaborate on data analyses challenging project  
 
 
